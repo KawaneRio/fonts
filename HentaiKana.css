@@ -1,6 +1,6 @@
 @font-face {
 	font-family:HentaiKana ;
-	src: url('https://cdn.rawgit.com/KawaneRio/fonts/master/UniHentaiKana-Regular.woff') format('woff') ;
+	src: url('https://github.com/KawaneRio/fonts/blob/master/UniHentaiKana-Regular.woff?raw=true') format('woff') ;
 }
 body {
 	font-family:serif,HentaiKana ;
